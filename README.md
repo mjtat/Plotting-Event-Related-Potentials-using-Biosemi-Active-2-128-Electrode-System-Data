@@ -372,7 +372,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-19-1.png)
+![](ROI2.png)
 
 **ROI 3**
 
@@ -383,7 +383,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-20-1.png)
+![](ROI3.png)
 
 **ROI 4**
 
@@ -394,7 +394,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-21-1.png)
+![](ROI4.png)
 
 **ROI 5**
 
@@ -405,7 +405,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-22-1.png)
+![](ROI5.png)
 
 **ROI 6**
 
@@ -416,7 +416,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-23-1.png)
+![](ROI6.png)
 
 **ROI 7**
 
@@ -427,7 +427,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-24-1.png)
+![](ROI7.png)
 
 **ROI 8**
 
@@ -438,7 +438,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-25-1.png)
+![](ROI8.png)
 
 **ROI 9**
 
@@ -449,4 +449,4 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-26-1.png)
+![](ROI9.png)
