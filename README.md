@@ -361,7 +361,7 @@ First, we convert the values into more readable data.
     line_names <-c("Can Define", "Familiar", "Don't Know")
     legend('topright', line_names, col = c("blue", "green", "red"), lty = c(1,2,3), cex = .75)
 
-![](Classroom_Learning_Plotting_2_files/figure-markdown_strict/unnamed-chunk-18-1.png)
+![](ROI1.png)
 
 **ROI 2**
 
