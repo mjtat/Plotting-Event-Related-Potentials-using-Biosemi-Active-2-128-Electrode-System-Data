@@ -187,7 +187,9 @@ First, we convert the values into more readable data.
     Omnibus_DF <- Omnibus_DF*10**6
     Omnibus_DF <- cbind(Omnibus_DF, time)
 
-**Now we start creating plots.** We start with ROI 1 thru ROI 9.
+**Now we start creating plots.** We start with ROI 1 thru ROI 9. A visualization of where the ROIs lie on the scalp can be seen below:
+
+![](ROI.png)
 
 **Note that in the script itself, the plots will pop up, and you can right click to save them!**
 ------------------------------------------------------------------------------------------------
